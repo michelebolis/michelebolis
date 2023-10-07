@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Computer Science studente from Bergamo (IT) <br><br>- 🔭 I’m studying at Università degli studi di Milano (UniMi) <br></p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">🛠 Database</p>
+<h3 align="left">🛠 Database</h3>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">🛠 Tools</p>
+<h3 align="left">🛠 Tools</h3>
 
 ###
 
