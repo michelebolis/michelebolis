@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science studente from Bergamo (IT) <br><br>- 🔭 I’m studying at Università degli studi di Milano (UniMi) <br></p>
+<p align="left">I'm a Computer Science student from Bergamo (IT) <br><br>- 🔭 I’m studying at Università degli studi di Milano (UniMi) <br></p>
 
 ###
 
