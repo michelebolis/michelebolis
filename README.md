@@ -8,7 +8,9 @@
   <br/>
   <div><img align="center" style="width:70%" src="https://github-readme-streak-stats.herokuapp.com/?user=michelebolis&" alt="michelebolis" /></div>
 </div>
-
+<div style="align:center; width:10%;">
+  [![Count visits](https://visitcount.itsvg.in/api?id=michelebolis&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+</div>
 
 <!--
 **michelebolis/michelebolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
